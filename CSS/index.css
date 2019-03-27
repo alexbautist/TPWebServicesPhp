@@ -1,0 +1,29 @@
+/*
+.list{
+    display: flex;
+    flex-direction: row;
+    
+}*/
+
+/*TITRE*/
+.title{
+    background-color: seagreen;
+    font-size: 20px;
+}
+
+#formModifier{
+    display: flex;
+    flex-direction: column;   
+}
+
+/* COLONNE ACTIONS*/
+.actions{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between; 
+}
+
+.icons{
+    margin-left: 5px;
+    margin-right: 5px;
+}
